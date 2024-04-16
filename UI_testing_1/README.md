@@ -10,6 +10,6 @@ Before you can run the tests, make sure you have the following installed on your
 - [npm](https://www.npmjs.com/) (Typically included with Node.js)
 - [Docker](https://www.docker.com/) (Optional, needed only if you intend to run tests within a Docker container)
 
-## Getting Started
 
-### 1. Clone the Repository
+
+
